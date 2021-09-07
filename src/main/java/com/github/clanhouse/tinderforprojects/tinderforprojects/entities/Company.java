@@ -3,7 +3,7 @@ package com.github.clanhouse.tinderforprojects.tinderforprojects.entities;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "Companies")
+@Table(name = "Registration")
 public class Company {
 
     @Id
